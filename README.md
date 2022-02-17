@@ -1,4 +1,4 @@
-# Docker Image Template for Scietific Data Fitting
+# Docker Image Template for Scientific Data Fitting
 
 To use this image, include this line in your Dockerfile:
 
